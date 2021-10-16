@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gts1108
 - 👀 I’m interested in game develpment
-- 🌱 I’m currently learning haxeflixel
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on indie cominuty 
 - 📫 How to reach me? y0u can't lol
 
