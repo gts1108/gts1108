@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gts1108
 - 👀 I’m interested in game develpment,haxe, C
 - 🌱 I’m currently learning haxe and haxeflixel
-- 💞️ I’m looking to collaborate on indie cominuty 
+- 💞️ I’m looking to collaborate on indie community
 - 📫 How to reach me? y0u can't lol
 
 <!---
