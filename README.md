@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gts1108
 - 👀 I’m interested in game develpment
-- 🌱 I’m currently learning haxe and haxeflixel
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on indie community
 - 📫 How to reach me? Twitter, newgrounds, YouTube, Instagram etc
 
