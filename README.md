@@ -1,11 +1,12 @@
 - Hi, I’m @gts1108, a dumb haxe programmer(focus on game dev)
-- Tools that i use:
+
+Tools that i use:
 - Haxe for programming language
 - Heaps for game engine
 - VSCode for editor
 
 
-that's it for now about me.
+That's it for now about me.
 You can find me on
 - Twitter - https://twitter.com/gts1108
 - Newgrounds - https://gts1108.newgrounds.com/
