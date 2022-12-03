@@ -2,7 +2,7 @@
 
 Tools that i use:
 - Haxe for programming language
-- Heaps for game engine
+- Haxeflixel for game engine
 - VSCode for editor
 
 
