@@ -1,8 +1,7 @@
-- Hi, I’m @gts1108, a dumb haxe programmer(focus on game dev)
+- Hi, I’m @gts1108, a dumbprogrammer(focus on game dev)
 
 Tools that i use:
-- Haxe for programming language
-- Haxeflixel for game engine
+  (idk)
 - VSCode for editor
 
 
